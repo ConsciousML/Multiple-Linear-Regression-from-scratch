@@ -7,14 +7,14 @@ The solution will be implemented from scratch using PyTorch.
 ## Dataset
 The CarDekho dataset contains information about used cars listed on the website of the same name.
 This dataset has 301 unique entities with the following features:
--car name
--year of release
--selling price
--present price
--kilometers driven
--fuel: such as petrol or diesel
--transmission: such as manual or automatic
--owner: how many times the car changed owner
+- car name
+- year of release
+- selling price
+- present price
+- kilometers driven
+- fuel: such as petrol or diesel
+- transmission: such as manual or automatic
+- owner: how many times the car changed owner
 
 ## Setup
 In order to install the conda environment needed to run the notebook, run the following line:
