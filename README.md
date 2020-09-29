@@ -5,7 +5,7 @@ The goal of this project is to explain how linear regression works on multiple v
 The solution will be implemented from scratch using PyTorch.
 
 ## Blog Post
-The experiment can be found in this [post](https://consciousml.github.io/blog/linear-regression/car-price/pca/pytorch/from-scratch/2020/09/14/Multivariate-Linear-Regression.html).
+The experiment can be found in this [post](https://consciousml.github.io/blog/linear-regression/car-price/pca/pytorch/from-scratch/2020/09/10/Multivariate-Linear-Regression.html).
 
 ## Dataset
 The CarDekho dataset contains information about used cars listed on the website of the same name.
